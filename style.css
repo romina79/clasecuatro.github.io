@@ -1,0 +1,19 @@
+ 
+    .dia1,.dia2,.dia3 {
+    color: violet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+    .dia4,.dia5 {
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+    .horario1 {
+    color: violet;
+    font-size: 30px;
+ }
+    .horario2 {
+    color: aqua;
+    font-size: 30px;
+ }
